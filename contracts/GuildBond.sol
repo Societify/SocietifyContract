@@ -94,3 +94,4 @@ contract GuildBond is ERC721, ERC721Burnable, Ownable {
         super._beforeTokenTransfer(from, to, tokenId);
     }
 }
+
