@@ -98,4 +98,3 @@ contract GuildBond is ERC721, ERC721Burnable, Ownable {
 
 
 
-
