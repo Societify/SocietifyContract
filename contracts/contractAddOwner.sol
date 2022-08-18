@@ -10,3 +10,4 @@ contract ContractAddOwner is OwnerManager {
         OwnerManager(address(this)).addOwnerWithThreshold(newOwner, threshold);
     }
 }
+
