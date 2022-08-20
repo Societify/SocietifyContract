@@ -34,3 +34,4 @@ contract GuildManager {
         safe.contractAddOwner(msg.sender, safe.getThreshold());
     }
 }
+
