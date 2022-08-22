@@ -47,4 +47,3 @@ contract GuildManager {
 
 
 
-
