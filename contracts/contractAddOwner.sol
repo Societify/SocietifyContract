@@ -11,4 +11,3 @@ contract ContractAddOwner is OwnerManager {
     }
 }
 
-
