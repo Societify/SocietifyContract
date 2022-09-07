@@ -1,1 +1,1 @@
-# SocietifyContract
+# Societify
